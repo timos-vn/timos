@@ -2,9 +2,8 @@
 body{
 	height: 900px;
  background-image: url('backgroud.jpg');
- background-position:center;
  background-repeat:no-repeat; 
- background-position-y: 500px;
+ background-position-y: 300px;
 }
 header {
 	
