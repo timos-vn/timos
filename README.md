@@ -1,0 +1,2 @@
+# timos
+ScanQR Code Timos
